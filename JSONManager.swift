@@ -28,8 +28,8 @@ struct iPhone: Codable, Hashable{
     
     static let allIphones: [iPhone] = Bundle.main.decode(file: "iphones.json")
     static let sampleiPhone: iPhone = allIphones[0]
-    static let currentDevice = UIDevice.current.name
-    
+    static let currentDevice = UIDevice().type
+    static let test = UIDevice().type
     
     
     static var currentiPhone: iPhone {
