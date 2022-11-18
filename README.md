@@ -12,7 +12,7 @@ There are these characteristics:
 - authentication type
 - processor characteristics
 - memory size and type
-> I have created by using SwiftUI framework  [SwiftUI website](https://developer.apple.com/documentation/swiftui/)
+> I have created by using [SwiftUI](https://developer.apple.com/documentation/swiftui/) framework
 > > Note: this app I have made for teaching and I used the app [Usage](https://apps.apple.com/us/app/usage-monitor/id970353453) section as a template
 
 `light theme`
